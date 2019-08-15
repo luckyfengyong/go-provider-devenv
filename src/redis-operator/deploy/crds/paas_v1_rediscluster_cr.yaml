@@ -1,0 +1,7 @@
+apiVersion: paas.huawei.com/v1
+kind: RedisCluster
+metadata:
+  name: example-rediscluster
+spec:
+  # Add fields here
+  size: 3
