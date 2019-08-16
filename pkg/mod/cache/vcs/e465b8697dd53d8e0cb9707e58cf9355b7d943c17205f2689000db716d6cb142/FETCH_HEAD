@@ -1,0 +1,8 @@
+adc9689aa021e10172b0df1c854261e7fd84e123		tag 'kubernetes-1.13.4' of https://github.com/kubernetes/apimachinery
+734a7b7d8f156e63b1d7cc7a659132312d1ee3f8	not-for-merge	tag 'kubernetes-1.13.5' of https://github.com/kubernetes/apimachinery
+8070e95981c5a2b0ed31b276e0c9d1bb1f39b971	not-for-merge	tag 'kubernetes-1.13.5-beta.0' of https://github.com/kubernetes/apimachinery
+b64dc173219d0e5828cd6f632fd7abe7094593b9	not-for-merge	tag 'kubernetes-1.13.6' of https://github.com/kubernetes/apimachinery
+89e1489ead35aeb78ff03d8bcb08088a29c32fa2	not-for-merge	tag 'kubernetes-1.13.6-beta.0' of https://github.com/kubernetes/apimachinery
+d67b3b3821cfcb3b9483a1caf81ed3923cdd02ba	not-for-merge	tag 'kubernetes-1.13.7' of https://github.com/kubernetes/apimachinery
+d280056acfc025aa3f51a08c4ac8e471c96063fb	not-for-merge	tag 'kubernetes-1.13.7-beta.0' of https://github.com/kubernetes/apimachinery
+a2557b7c9f719db8981c064d71abc6483c82430d	not-for-merge	tag 'kubernetes-1.13.8-beta.0' of https://github.com/kubernetes/apimachinery

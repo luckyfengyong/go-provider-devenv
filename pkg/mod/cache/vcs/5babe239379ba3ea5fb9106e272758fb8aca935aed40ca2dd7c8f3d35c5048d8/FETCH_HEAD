@@ -1,0 +1,11 @@
+f8cba74510f397bac80157a6c4ccb0ffbc31b9d0		branch 'release-1.11' of https://github.com/kubernetes/code-generator
+67e27842044a42df896cf28817e628d95aba7fda	not-for-merge	tag 'kubernetes-1.11.10' of https://github.com/kubernetes/code-generator
+a83bdbac3309608fedc84e1ab6ad8d743d618040	not-for-merge	tag 'kubernetes-1.11.10-beta.0' of https://github.com/kubernetes/code-generator
+fd4cb9a049a8bddfdf767695074f3e8cc849c3bb	not-for-merge	tag 'kubernetes-1.11.11-beta.0' of https://github.com/kubernetes/code-generator
+00922bcf6ae55b9d73f0bac2a02b9e24065dfe8e	not-for-merge	tag 'kubernetes-1.11.6' of https://github.com/kubernetes/code-generator
+53c51a0c11349dc6a358fbb0510a54d46e35f9c6	not-for-merge	tag 'kubernetes-1.11.7' of https://github.com/kubernetes/code-generator
+1f7fa9dc257914ad26e25c11f0c8598e62c1111f	not-for-merge	tag 'kubernetes-1.11.7-beta.0' of https://github.com/kubernetes/code-generator
+e556a679d1843277a8fbd5af947b690078062101	not-for-merge	tag 'kubernetes-1.11.8' of https://github.com/kubernetes/code-generator
+bc01d2d03f4b8832ad7fb4d33c296677ff7fb245	not-for-merge	tag 'kubernetes-1.11.8-beta.0' of https://github.com/kubernetes/code-generator
+b971976257989e63b337f79d08cc5d5a77c84e8a	not-for-merge	tag 'kubernetes-1.11.9' of https://github.com/kubernetes/code-generator
+00d6922b154f59df925b1c5e5a0085a269218ea2	not-for-merge	tag 'kubernetes-1.11.9-beta.0' of https://github.com/kubernetes/code-generator

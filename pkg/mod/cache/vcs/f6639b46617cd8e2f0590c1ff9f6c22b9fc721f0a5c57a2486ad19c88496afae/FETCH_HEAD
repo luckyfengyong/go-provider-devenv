@@ -1,0 +1,10 @@
+a96e63847dc3c67d17befa69c303767e2f84e54f		branch 'master' of https://gopkg.in/natefinch/lumberjack.v2
+b273e6e4fbfeb95e3af48d4352e0111c22e75825		branch 'fix-filemode' of https://gopkg.in/natefinch/lumberjack.v2
+6586d38aa6742f3ddcd107161d777205e679bdb6		branch 'fix-test-timeout' of https://gopkg.in/natefinch/lumberjack.v2
+6d3dfa6c0e13e1585eea6f9bfae19e1d94eda609		branch 'maintain' of https://gopkg.in/natefinch/lumberjack.v2
+07d9c36a1b0194d2f9645a68bdea706e85b02815		branch 'mv-to-travis' of https://gopkg.in/natefinch/lumberjack.v2
+94d9e492cc53c413571e9b40c0b39cee643ee516		branch 'v2.0' of https://gopkg.in/natefinch/lumberjack.v2
+8ec9c6b748e0c75183863d208c8442319ddc5321		tag 'v1.0' of https://gopkg.in/natefinch/lumberjack.v2
+dd45e6a67c53f673bb49ca8a001fd3a63ceb640e		tag 'v2.0' of https://gopkg.in/natefinch/lumberjack.v2
+2a59cad198e07a0ea1fad0b3d6733626861b5c65		tag 'v2.0.0' of https://gopkg.in/natefinch/lumberjack.v2
+a96e63847dc3c67d17befa69c303767e2f84e54f		tag 'v2.1' of https://gopkg.in/natefinch/lumberjack.v2

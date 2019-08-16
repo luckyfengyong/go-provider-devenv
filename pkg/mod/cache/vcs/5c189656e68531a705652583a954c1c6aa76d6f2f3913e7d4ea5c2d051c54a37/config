@@ -1,0 +1,7 @@
+[core]
+	repositoryformatversion = 0
+	filemode = true
+	bare = true
+[remote "origin"]
+	url = https://github.com/emicklei/go-restful-swagger12
+	fetch = +refs/heads/*:refs/remotes/origin/*
